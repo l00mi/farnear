@@ -1,0 +1,9 @@
+[{"id":"008505000","name":"Luzern","score":null,"coordinate":{"type":"WGS84","x":8.3,"y":47.0},"distance":null},
+ {"id":"000000022","name":"Basel","score":null,"coordinate":{"type":"WGS84","x":7.5,"y":47.5},"distance":null},
+ {"id":"008501008","name":"Gen\u00e8ve","score":"101","coordinate":{"type":"WGS84","x":6.1,"y":46.2},"distance":null},
+ {"id":"008501120","name":"Lausanne","score":"101","coordinate":{"type":"WGS84","x":6.6,"y":46.5},"distance":null},
+ {"id":"008506302","name":"St. Gallen","score":"101","coordinate":{"type":"WGS84","x":9.3,"y":47.4},"distance":null},
+ {"id":"008507000","name":"Bern","score":"101","coordinate":{"type":"WGS84","x":7.4,"y":46.9},"distance":null},
+ {"id":"008504300","name":"Biel\/Bienne","score":"101","coordinate":{"type":"WGS84","x":7.2,"y":47.1},"distance":null},
+ {"id":"008503000","name":"Z\u00fcrich HB","score":"101","coordinate":{"type":"WGS84","x":8.5,"y":47.3},"distance":null},
+ {"id":"008506000","name":"Winterthur","score":"101","coordinate":{"type":"WGS84","x":8.7,"y":47.5},"distance":null}]
